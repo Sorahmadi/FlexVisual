@@ -1,0 +1,24 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "backend for info-5103 flexvisual",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "FADS TM",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fastify": "^3.27.4",
+    "fastify-cors": "^6.0.3",
+    "graphql": "^16.3.0",
+    "mercurius": "^9.3.4",
+    "mongodb": "^4.4.1",
+    "nodemon": "^2.0.15",
+    "stripe": "^10.14.0"
+  }
+}

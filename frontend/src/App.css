@@ -1,0 +1,69 @@
+.centerAlign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightAlign {
+  float: right;
+}
+.leftAlign {
+  float: left;
+  margin-left: 25px;
+  padding-bottom: 50px;
+  
+}
+
+.fireImg {
+  width: 20%;
+  display: block;
+  margin: auto;
+}
+
+.box {
+  margin-top: 5%;
+}
+
+.react-calendar {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.react-calendar__month-view__weekdays__weekday {
+  display: none;
+}
+.react-calendar__navigation {
+  display: none;
+}
+
+.react-calendar__month-view__days {
+  align-content: center;
+}
+
+.react-calendar__month-view__days button {
+  width: 35px !important;
+  height: 28px !important;
+  margin: 3.5px !important;
+}
+
+.react-calendar {
+  box-shadow: none;
+}
+
+.react-calendar__tile {
+  background-color: #d9d9d9;
+  border: none;
+  flex: 0 0 11.8% 9 !important;
+}
+
+.react-calendar__month-view__days__day--neighboringMonth {
+  visibility: hidden;
+}
+
+.hasCalories {
+  background-color: #ff8514;
+}
+
+body {
+  margin: 0;
+}

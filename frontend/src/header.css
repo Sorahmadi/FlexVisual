@@ -1,0 +1,24 @@
+.btn_main {
+  margin-left: 375px;
+  margin-right: 375px;
+}
+.textfield_main {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.MuiDialogTitle-root {
+  align-self: center;
+}
+
+.MuiDialogActions-root {
+  align-self: center;
+}
+
+.profilepic {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+}
